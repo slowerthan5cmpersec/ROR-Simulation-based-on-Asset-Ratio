@@ -2,7 +2,7 @@
 ### <div align="center"> 2-1 Probability Statistics - Finale PR </div>
 ### <div align="center"> 자산유형별 비율에 따른 <br> 몬테카를로 시뮬레이션 기반 수익률 분석 </div>
 ---
-> #### *[PR env](https://drive.google.com/drive/folders/1-ziNXdecsTjw-T17IKImwwwJrNrxXHDi)* - 프로젝트 구글 드라이브 링크 <br> *[Docs](https://www.notion.so/_-1f9cd6ef7d31808fa92be5e23ad3c264)* - 프로젝트 설명 노션 독스 <br> *[PPT]()* - 발표 자료
+> #### *[PR env](https://drive.google.com/drive/folders/1-ziNXdecsTjw-T17IKImwwwJrNrxXHDi)* - 프로젝트 구글 드라이브 링크 <br> *[Docs](https://www.notion.so/_-1f9cd6ef7d31808fa92be5e23ad3c264)* - 프로젝트 설명 노션 독스 <br> *[PPT](https://docs.google.com/presentation/d/1-qup7TXIC3zu4KL89WLc8fOdLdAALM0j/edit?usp=drive_link&ouid=112894487230611332678&rtpof=true&sd=true)* - 발표 자료
 ---
 ## 🧪 Experiment Result
 
