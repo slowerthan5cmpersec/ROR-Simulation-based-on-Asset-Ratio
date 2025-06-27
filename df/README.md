@@ -1,5 +1,7 @@
 *원본 데이터 모두 저장하는 폴더*
 
+<img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/dfpng.png'> </img>
+
 
 - [labels](https://www.notion.so/labels-1f9cd6ef7d31802e981ade855f7bd1e4?pvs=21)
 - [z_test](https://www.notion.so/z_test-1f9cd6ef7d318095b3f4dbef4511fadf?pvs=21)
