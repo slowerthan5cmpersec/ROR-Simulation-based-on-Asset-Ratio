@@ -35,6 +35,8 @@
 <img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/4.png'></img>
 <img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/5.png'></img>
 
+---
+#### – [실제 결과](https://docs.google.com/spreadsheets/d/111HeX0oTfrZ7gNsAuyOJnrfOcrZsutrzbhpTUQqtE_A/edit?gid=0#gid=0)
 
 ## ↔️ final state dif
 - 주가 데이터 전부 삭제. 
