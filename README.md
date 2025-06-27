@@ -8,11 +8,11 @@
 
 #### – 자산량에 따른 수익률 차이 有. 
 
-<img src='https://i.imgur.com/qDg6nEV.png'> </img>
+<img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/asset135.png'> </img>
 - 자산 분위 높아질수록 수익률 높아지는 추세 확인함. 
 - 이는 구매 가능한 <u>자산의 다양성 차이</u>로 인한 결과로 해석 가능하였음. 
 
-<img src='https://i.imgur.com/syADtbS.png'> </img>
+<img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/rowdif.png'> </img>
 
 - 1 iteration 시 자산 매도관리표 6년간의 총 매매 행 수 차이. 
 
@@ -20,7 +20,7 @@
 ---
 #### – 존버는 실패한다
 
-<img src='https://i.imgur.com/b4foAuf.png'></img>
+<img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/zoneburr.png'></img>
 
 - 실험 기간은 `2019-01-01` - `2024-12-31` 로 설정하였음. 
 - 존버는 `sell` 을 구현만 하고 아무것도 안넣어서 개발함. 
@@ -29,11 +29,11 @@
 
 ---
 #### – Infographics
-<img src='https://i.imgur.com/6ilBEXo.png'></img>
-<img src='https://i.imgur.com/2zCHkTv.png'></img>
-<img src='https://i.imgur.com/gxS9YkK.png'></img>
-<img src='https://i.imgur.com/eyTKKlJ.png'></img>
-<img src='https://i.imgur.com/L4KQstb.png'></img>
+<img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/1.png'></img>
+<img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/2.png'></img>
+<img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/3.png'></img>
+<img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/4.png'></img>
+<img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/5.png'></img>
 
 
 ## ↔️ final state dif
