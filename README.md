@@ -28,7 +28,7 @@
 - `2019-01-01` - `2022-12-31`로 설정 시 유의미한 결과는 아니지만 둘이 서로 비슷한 결과 획득 가능하였음. 
 
 ---
-#### – 요약 Infographic
+#### – Infographics
 <img src='https://i.imgur.com/6ilBEXo.png'></img>
 <img src='https://i.imgur.com/2zCHkTv.png'></img>
 <img src='https://i.imgur.com/gxS9YkK.png'></img>
