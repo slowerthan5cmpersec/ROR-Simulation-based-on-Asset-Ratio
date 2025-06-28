@@ -28,7 +28,7 @@
 - `2019-01-01` - `2022-12-31`로 설정 시 유의미한 결과는 아니지만 둘이 서로 비슷한 결과 획득 가능하였음. 
 
 ---
-#### – Infographics
+#### – Infographs
 <img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/1.png'></img>
 <img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/2.png'></img>
 <img src='https://github.com/slowerthan5cmpersec/ROR-Simulation-based-on-Asset-Ratio/blob/main/src/3.png'></img>
